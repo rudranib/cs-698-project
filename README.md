@@ -1,6 +1,6 @@
 # cs-698-project
 
-Movie Recommender System using Deep Autoencoders
+## Movie Recommender System using Deep Autoencoders
 
 Mar 2020 – Apr 2020
 
